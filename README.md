@@ -1,6 +1,6 @@
 # Monday Coffee Expansion Analysis using SQL
 
-![Monday Coffee Logo](logo.png)
+![Monday Coffee Logo](https://github.com/M-Sudheer18/Monday-Coffee-Analysis/blob/main/1.png)
 
 ## Overview
 This project involves an analysis of Monday Coffee's sales, customers, products, and city data using SQL. The goal is to identify the best cities for opening new coffee shop locations based on sales, customer base, estimated coffee consumers, and rent. This README provides a detailed account of the project's objectives, business problems, solutions, findings, and recommendations.
