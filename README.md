@@ -438,7 +438,7 @@ This analysis provides a data-backed view of where Monday Coffee should open new
 3. Import the CSV files in this order: `city`, `products`, `customers`, `sales`.
 4. Run the queries in `Solutions.sql`.
 
-## Author - [Your Name]
+## Author - [Sudheer Muthyala]
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
@@ -446,9 +446,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media:
 
-- **YouTube**: [Add your channel link]
-- **Instagram**: [Add your profile link]
-- **LinkedIn**: [Add your profile link]
-- **GitHub**: [Add your profile link]
+- **LinkedIn**: [https://www.linkedin.com/in/sudheer-muthyala-317180268/]
+- **GitHub**: [https://github.com/M-Sudheer18]
 
 Thank you for your support, and I look forward to connecting with you!
